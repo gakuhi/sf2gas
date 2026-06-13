@@ -1,0 +1,5 @@
+# clasp のプロジェクト紐付け（scriptId を含むため各自で作成。.clasp.json.example を参照）
+/.clasp.json
+
+# macOS
+.DS_Store
